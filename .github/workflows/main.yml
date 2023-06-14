@@ -17,4 +17,4 @@ jobs:
         server: ftp.pinkcomfort.space
         username: system@pinkcomfort.space
         password: ${{ secrets.ftp_password }}
-        server-dir: /public_html/demowork/ 
+        server-dir: /public_html/responcive/ 
